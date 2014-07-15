@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11/07/2014, 19:11:55
+    Author     : Júlio
+*/
+
+* {
+    //font-family: Tahoma, "Trebuchet MS", Arial;
+    //margin: 0; 
+    //padding: 0; 
+    //border: 0;
+    //color: black;
+}
+
+root { 
+    display: block;
+}
+
+body {
+    //width: 800px;
+    //margin-left: auto;
+    //margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.header {
+
+}
+
+.content {
+    border: solid red;
+    border-radius: 20px;
+    background-color: blueviolet;
+}
+
+.footer {
+
+}
+
+.col-left {
+    width: 49%;
+    float: left;
+    text-align: center;
+}
+
+.col-right {
+    width: 49%;
+    float: left;
+    text-align: center;
+}
+
+.col-unica-centralizada-pequena {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-unica-centralizada-media {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagem {
+    width: 100px;
+}
+.imagem miniatura{
+    width: 100px;
+}
+
+.tabela {
+
+}
+
+.linha {
+    border: solid black;
+}
+
+.coluna {
+    border: solid black;
+    width: 100px;
+    text-align: center;
+}
+
+
